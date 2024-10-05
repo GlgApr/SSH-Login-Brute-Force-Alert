@@ -23,13 +23,13 @@ sudo apt install fail2ban jq curl
 - Create [Telegram Bot](https://t.me/BotFather)
 - Use getUpdates to get chatid
 ```sh
-https://api.telegram.org/bot7xxxxxxxxYOURAPIKEY/getUpdates
+https://api.telegram.org/botYOURAPIKEY/getUpdates
 ```
 
 3. IPinfo
-Create account [ipinfo](https://ipinfo.io)
+- Create account [ipinfo](https://ipinfo.io)
 
-4. Install
+5. Install
 ```sh
 git clone https://github.com/GlgApr/SSH-Login-Brute-Force-Alert.git
 cd SSH-Login-Brute-Force-Alert
