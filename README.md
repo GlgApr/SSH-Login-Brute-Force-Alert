@@ -88,7 +88,7 @@ sudo systemctl start ssh-login-monitor.service
 ```
 ```
 sudo mv ssh-notify.sh /usr/local/bin/
-sudo chmod +x /usr/local/bin/ssh-notify.sh
+sudo chmod +x /usr/local/bin/ssh-telegram-alert.sh
 ```
 Last
 ```
